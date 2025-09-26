@@ -1,4 +1,4 @@
-## Hi there 👋
+## The first repository has been created and a million more are on the way ⚡
 
 <!--
 **BerdnikovIlya/BerdnikovIlya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
