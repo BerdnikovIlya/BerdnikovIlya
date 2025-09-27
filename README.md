@@ -1,5 +1,9 @@
 ## The first repository has been created and a million more are on the way ⚡
 
+🌱 Studied: Python
+📫 How to reach me: ilya.saver@gmail.com
+⚡ Fun fact: author of local quizzes about cinema
+
 <!--
 **BerdnikovIlya/BerdnikovIlya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
